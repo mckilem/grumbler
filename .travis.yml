@@ -1,3 +1,5 @@
+langugage: java
+
 stages:
   - build
   - deploy
