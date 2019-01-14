@@ -12,7 +12,9 @@
 	<artifactId>grumbler</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>grumbler</name>
-	<description>Grumbler Bot fo Slack Notifications</description>
+	<description>Grumbler Bot for Slack Notifications</description>
+
+	<packaging>war</packaging>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -47,6 +49,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>grumbler-app</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
