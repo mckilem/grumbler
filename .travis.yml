@@ -1,4 +1,4 @@
-langugage: java
+language: java
 
 stages:
   - build
