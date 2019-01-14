@@ -14,7 +14,7 @@
 
 ### IntelliJ IDEA ###
 .idea
-*.iws
+*.iwsgit rm --cached project.properties
 *.iml
 *.ipr
 
