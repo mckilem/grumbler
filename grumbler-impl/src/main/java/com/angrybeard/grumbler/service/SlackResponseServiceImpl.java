@@ -15,7 +15,7 @@ public class SlackResponseServiceImpl implements SlackResponseService {
         StatusCheckService st = new StatusCheckServiceImpl();
         int status = 0;
         try {
-            status = st.getStatusCheckResult("http://178.128.138.179/ministerstvo/");
+            status = st.getStatusCheckResult("");
         } catch (IOException e) {
             e.printStackTrace();
         }
