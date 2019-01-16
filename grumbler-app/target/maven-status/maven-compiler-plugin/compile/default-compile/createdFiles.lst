@@ -1,0 +1,4 @@
+com/angrybeard/grumbler/converter/SlackSlashCommandConverter.class
+com/angrybeard/grumbler/GrumblerApplication.class
+com/angrybeard/grumbler/config/SlackSlashCommandConverterConfig.class
+com/angrybeard/grumbler/controller/SlackController.class

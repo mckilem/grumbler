@@ -1,0 +1,3 @@
+com/angrybeard/grumbler/model/SlackSlashCommand.class
+com/angrybeard/grumbler/service/SlackResponseService.class
+com/angrybeard/grumbler/service/StatusCheckService.class
