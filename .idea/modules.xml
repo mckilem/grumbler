@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/grumbler.iml" filepath="$PROJECT_DIR$/grumbler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grumbler-api/grumbler-api.iml" filepath="$PROJECT_DIR$/grumbler-api/grumbler-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grumbler-app/grumbler-app.iml" filepath="$PROJECT_DIR$/grumbler-app/grumbler-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grumbler-impl/grumbler-impl.iml" filepath="$PROJECT_DIR$/grumbler-impl/grumbler-impl.iml" />
+    </modules>
+  </component>
+</project>
